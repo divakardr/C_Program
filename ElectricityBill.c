@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(){
     int units,bill;
+    
     printf("Enter the unit :");
     scanf("%d",&units);
 

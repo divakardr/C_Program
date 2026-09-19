@@ -21,6 +21,6 @@ int main(){
         printf("Armstrong Number");
     }
     else{
-        printf("Not Aremstrong");
+        printf("Not Armstrong");
     }
 }
