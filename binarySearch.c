@@ -21,10 +21,11 @@ int main(){
             }
         }
     }
-    printf("After sorted the array : \n");
+    printf("After sorted the array : ");
     for(int i=0;i<size;i++){
         printf("%d ",arr[i]);
     }
+    printf("\n");
 
     //Binary Search :
 
